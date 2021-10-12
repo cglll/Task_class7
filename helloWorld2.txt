@@ -1,4 +1,12 @@
 Hello there!
 
+<<<<<<< HEAD
 Modificación desde repo de Alejandro
 Modificacion cglll.
+||||||| 611b80e
+Modificación desde repo de Alejandro
+=======
+Modificación desde repo de Alejandro
+
+Cambios a hola 2 
+>>>>>>> d4b79f630e5869e677241ee34d587f786e614257
